@@ -19,3 +19,6 @@ Hi ! My name is Shriyansh Bhargava [](https://user-images.githubusercontent.com/
   </a>
 </div>
 
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyanshbhargava&show_icons=true&locale=en" alt="shriyanshbhargava" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyanshbhargava&show_icons=true&locale=en&layout=compact" alt="shriyanshbhargava" /></span>
+
