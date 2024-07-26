@@ -6,7 +6,7 @@ Hi ! My name is Shriyansh Bhargava [](https://user-images.githubusercontent.com/
 
 ### Skills
 
-[My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs,bootstrap,tailwind,firebase,html,css,git,github,postman,figma,mongodb,nodejs)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs,bootstrap,tailwind,firebase,html,css,git,github,postman,figma,mongodb,nodejs)
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyanshbhargava&label=Profile%20views&color=0e75b6&style=flat" alt="shriyanshbhargava" /> </p>
